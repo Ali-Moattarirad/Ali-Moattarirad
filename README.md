@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-  A Full Time Trader📊💹, Who Sometimes do Code 💻👨‍💻
+  Full Stack Developer 💻👨‍💻
 - Abilities and interests :
-  - Backend Developer, Especially Java-Script.
-  - Front Developer, Familiar with Html-Css, Bootstrap, React, Vue.Js & JQuery.
+  - Front Developer, Familiar with Html-Css, Bootstrap, React, Vue.Js, Next.js & JQuery.
+  - Backend Developer, Familiar with Node.js, Express.js.
   - C# Developer, familiar with Windows Form Apps, WPF Technology, UWP Technology, ASP.NET Technology and Core.net.
   - Interested in Network Security, Pentesting and Python Language.
